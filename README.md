@@ -109,5 +109,5 @@ To use MagChainGLViewer, after compiling the C++ source file by make and having 
 
 # License
 
-This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/alexeltsar/SPC_EnergyConfigurations/blob/master/LICENSE) file for details
+This project is licensed under the GNU General Public License - see the [LICENSE.md](https://github.com/magchainsimulationpackage/magchain_visualization_software/blob/master/LICENSE) file for details
 
