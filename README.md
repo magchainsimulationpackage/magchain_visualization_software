@@ -101,5 +101,13 @@ To use MagChainGLViewer, after compiling the C++ source file by make and having 
 
 # Authors
 
-1) 
+1) J.S. Andreu
+
+2) C. Calero
+
+3) A. Giménez-Romero
+
+# License
+
+This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/alexeltsar/SPC_EnergyConfigurations/blob/master/LICENSE) file for details
 
