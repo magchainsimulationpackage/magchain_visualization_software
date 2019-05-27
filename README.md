@@ -98,3 +98,8 @@ To use MagChainGLViewer, after compiling the C++ source file by make and having 
 - Choose a folder to save the output converted file in the choose output folder section. In no folder is choosen the file will be saved in the current folder.
 
 - Give a name for the output file and press the `convert` button.
+
+# Authors
+
+1) 
+
