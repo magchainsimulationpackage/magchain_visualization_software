@@ -13,15 +13,14 @@ Table of contents
 <!--ts-->
    * [Description](#description)
    * [Table of contents](#table-of-contents)
-   * [Requirements](#Requirements)
-   * [Installation](#Installation)
+   * [Requirements](#requirements)
+   * [Installation](#installation)
    * [Usage](#usage)
-      * [MagChainGlViewer](#MagChainGlViewer)
-      * [MagChainPyViewer](#MagChainPyViewer)
-      * [MagChainFileConverter](#MagChainFileConverter)
-   * [Authors](#Authors)
-   * [License](#License)
-   * [Acknowledgments](#Acknowledgements)
+      * [MagChainGlViewer](#magchainglviewer)
+      * [MagChainPyViewer](#magchainpyviewer)
+      * [MagChainFileConverter](#magchainfileconverter)
+   * [Authors](#authors)
+   * [License](#license)
 <!--te-->
 
 # Description
